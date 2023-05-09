@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Name,Algorithm,Reduced,Iterations,Time,Cost
 52864_1,model greedy,True,2,4.557308197021484,21.371311985202535
 171544_1,model greedy,True,9,21.68070650100708,158.6429071604938
+=======
+Name,Algorithm,Reduced,Iterations,Time,Cost
+52864_1,model greedy,True,2,4.557308197021484,21.371311985202535
+171544_1,model greedy,True,9,21.68070650100708,158.6429071604938
+>>>>>>> ead98b7d5276e54989b12c0862be61effb20f431
