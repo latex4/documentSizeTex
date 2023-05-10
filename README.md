@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hello,
 as we can see we have 3 main folders:
 1. documents_generations - contains the files used for generating our 300000+ documents
@@ -26,4 +25,3 @@ here is the list of python libraries we used in order to generate the documents,
 3. to create 300000 random unique latex files we used the libraries **essential_generators** (this libarary helps us create random texts) and **Random** and **Itertools**
 4. we used **Numpy** and **pandas** for Dataframes and arrays
 5. we used **scikit-learn** for the models we tested and we separated our dataset into train and test using **scikit-learn** too
->>>>>>> ead98b7d5276e54989b12c0862be61effb20f431
