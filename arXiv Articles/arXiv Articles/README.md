@@ -53,12 +53,8 @@ This script extracts tar.gz files, processes LaTeX files to remove certain comma
 The arxiv_testset directory contains all the downloaded and processed papers from arXiv. Each paper has its own directory with the following structure:
 
 * <paper_directory>/
-original_files/: Contains the original files extracted from the downloaded tar.gz file.
-* processed_files/: Contains the files after processing, including modifications to the LaTeX commands.
-* main.tex: The main LaTeX file used for processing. This is identified and selected by the dir_findTEX.py script.
-* main_changed.tex: The modified LaTeX file after processing, which includes the removal and commenting out of certain LaTeX commands.
-* main.pdf: The original PDF file of the paper.
-* main_2_pages.pdf: The PDF file containing only the last two pages, extracted by the extract_2_last_pages.py script.
+* main_changed.tex: The modified LaTeX file after processing, which includes the removal and commenting out of certain LaTeX commands and 3 lines.
+* main_changed.pdf: The PDF file of the paper after modified.
 
 # Example Workflow
 ## Download Papers:
