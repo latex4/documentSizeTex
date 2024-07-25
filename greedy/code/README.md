@@ -24,4 +24,4 @@ Depending on the value of x, a different greedy algorithm experiment is run. The
       results_dir="code/~/results"
       x = 0 # the simple algorithm
       # Run experiments with different algorithm variants
-      python -u code/greedy_from_machine/new_experiment.py x $files_dir $results_dir
+      python -u code/greedy_from_machine/new_experiment.py $x $files_dir $results_dir
